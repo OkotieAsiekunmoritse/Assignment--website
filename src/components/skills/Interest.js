@@ -13,14 +13,14 @@ class Interest extends Component {
           <div className={classes.Interest}>
             <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
               <div className={classes.web}>
-                <h3>Technical Skills</h3>
-                <p>I also have knowledge of Ansible, Open Source </p>
+                <h3>System Administrator</h3>
+                <p>I have a good knowledge of Linux operating system in managing of users/group, installation and configuration of packages</p>
               </div>
             </ScrollAnimation>
             <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
               <div className={classes.app}>
-                <h3>Web Develpoment</h3>
-                <p>I am a cloud engineer, I am fluent with python, HTML, CSS. </p>
+                <h3>Cloud Develpoment</h3>
+                <p>I am a cloud engineer, I have experience working with the AWS cloud platform which includes deployment of applications. </p>
               </div>
             </ScrollAnimation>
             <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
